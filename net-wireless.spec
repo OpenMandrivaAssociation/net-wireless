@@ -1,6 +1,6 @@
 %define name net-wireless
 %define version 0.2
-%define release %mkrel 11
+%define release %mkrel 12
 
 %define nsusr nagios
 %define nsgrp nagios
@@ -18,7 +18,6 @@ Source0: %{name}.%{version}.tar.bz2
 Patch0: net-wireless-nagios.patch.bz2
 BuildRoot: %{_tmppath}/%{name}-root
 Requires: nagios nagios-www
-BuildArch: noarch
 
 %description
 The Wireless Network Tools package uses a Web-enabled phone (or an emulator) to
