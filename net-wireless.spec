@@ -1,6 +1,6 @@
 %define name net-wireless
 %define version 0.2
-%define release %mkrel 14
+%define release %mkrel 15
 
 %define nsusr nagios
 %define nsgrp nagios
