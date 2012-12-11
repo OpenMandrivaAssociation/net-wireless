@@ -1,2 +1,3 @@
 sources:
-  "net-wireless.0.2.tar.bz2:"	9d394b3487acea81d4e041fae7bb60ebcfb32997
+  "net-wireless-nagios.patch.bz2": 029f94746ce4b70fd3d5c745dcd7d26b3e3a4786
+  "net-wireless.0.2.tar.bz2": 9d394b3487acea81d4e041fae7bb60ebcfb32997
