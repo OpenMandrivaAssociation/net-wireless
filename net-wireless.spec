@@ -8,7 +8,7 @@
 Summary: Wireless access for NetSaint
 Name:    net-wireless
 Version: 0.2
-Release: 15
+Release: 16
 License: GPL
 URL:     http://mobileengines.com/net-wireless/
 Group:   Networking/Other
