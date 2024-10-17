@@ -10,7 +10,7 @@ Name:    net-wireless
 Version: 0.2
 Release: 16
 License: GPL
-URL:     http://mobileengines.com/net-wireless/
+URL:     https://mobileengines.com/net-wireless/
 Group:   Networking/Other
 Source0: %{name}.%{version}.tar.bz2
 Patch0:  net-wireless-nagios.patch.bz2
